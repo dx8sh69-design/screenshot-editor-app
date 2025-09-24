@@ -1,4 +1,4 @@
-\import streamlit as st
+import streamlit as st
 from PIL import Image, ImageFilter, ImageDraw, ImageFont, ImageEnhance
 import io
 import cv2
